@@ -1,0 +1,23 @@
+{
+  "name": "musician-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tony629/musician-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tony629/musician-app/issues"
+  },
+  "homepage": "https://github.com/Tony629/musician-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
